@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a99798d5-e4b0-9698-763a-66bfac2aae22
 resourcetype: Document
 title: quiz203.pdf
 uid: 63156aeb-0312-e66a-90ff-e228d6e8e8bb
