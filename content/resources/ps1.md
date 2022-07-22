@@ -5,6 +5,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2003/047063da18fd09a00aa11344
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1.pdf
 uid: 047063da-18fd-09a0-0aa1-134428067708
 ---
 Spallation neutron source
-

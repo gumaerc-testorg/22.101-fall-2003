@@ -5,6 +5,7 @@ file: /courses/22-101-applied-nuclear-physics-fall-2003/c80efa560a1f8c8f67d4ad57
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3.pdf
 uid: c80efa56-0a1f-8c8f-67d4-ad575505f55d
 ---
 Schr?dinger equation
-
