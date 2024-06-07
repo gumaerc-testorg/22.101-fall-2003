@@ -2,6 +2,7 @@
 content_type: resource
 description: Low energy theorem for scattering of neutrons
 file: /courses/22-101-applied-nuclear-physics-fall-2003/0ad33afd47a6f6bc3c2ff8725f109006_ps4.pdf
+file_size: 72213
 file_type: application/pdf
 learning_resource_types:
 - Assignments
