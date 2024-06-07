@@ -2,6 +2,7 @@
 content_type: resource
 description: Rutherford scattering experiment
 file: /courses/22-101-applied-nuclear-physics-fall-2003/4bb7bcd30d8e82a09f35e5f8513fe354_ps5.pdf
+file_size: 54968
 file_type: application/pdf
 learning_resource_types:
 - Assignments
