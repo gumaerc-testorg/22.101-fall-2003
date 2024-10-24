@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Rutherford scattering
-file: /courses/22-101-applied-nuclear-physics-fall-2003/63156aeb0312e66a90ffe228d6e8e8bb_quiz203.pdf
+file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2003/63156aeb0312e66a90ffe228d6e8e8bb_quiz203.pdf
 file_size: 146087
 file_type: application/pdf
 learning_resource_types:
