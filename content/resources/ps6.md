@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Bethe-Block formula
-file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2003/84ca3f9cef3e8823188ff91d59f90fa7_ps6.pdf
+file: /courses/22-101-applied-nuclear-physics-fall-2003/84ca3f9cef3e8823188ff91d59f90fa7_ps6.pdf
 file_size: 439598
 file_type: application/pdf
 learning_resource_types:

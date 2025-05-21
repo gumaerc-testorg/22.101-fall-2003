@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Spallation neutron source
-file: /ol-ocw-studio-app/courses/22-101-applied-nuclear-physics-fall-2003/047063da18fd09a00aa1134428067708_ps1.pdf
+file: /courses/22-101-applied-nuclear-physics-fall-2003/047063da18fd09a00aa1134428067708_ps1.pdf
 file_size: 418581
 file_type: application/pdf
 learning_resource_types:
